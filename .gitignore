@@ -1,0 +1,10 @@
+node_modules/
+build/
+extension.zip
+package-lock.json
+.env
+.vscode
+
+.DS_Store
+*.DS_STORE
+*.DS_Store
