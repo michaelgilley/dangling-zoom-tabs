@@ -1,7 +1,7 @@
 {
   "name": "dang-zoom-tab",
   "private": true,
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Extension that closes those dang(ling) zoom tabs so you don't have to.",
   "author": "Michael Gilley <michael.gilley@zapier.com>",
   "license": "MIT",
