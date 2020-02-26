@@ -11,10 +11,10 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://*.zoom.us/j/*"],
+      "matches": ["*://*.zoom.us/*"],
       "js": ["content.js"]
     }
   ],
-  "permissions": ["tabs", "https://*.zoom.us/j/*", "https://*.zoom.us/s/*"],
+  "permissions": ["tabs", "https://*.zoom.us/*"],
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
 }
